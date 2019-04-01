@@ -350,7 +350,7 @@ ___
 
 La gestione dei molti formati raster e vettoriali utilizzati da QGIS e da molti software GIS proprietari sono legati ad un set di librerie *open source*
 
-![immagine](https://github.com/GISsymbology/CorsoQGIS/blob/master/immagini/gdal_logo.png)
+![immagine](./immagini/gdal_logo.png)
 ___
 
 ## Caricare i dati in QGIS ##
@@ -370,12 +370,12 @@ Ci sono molte modalità per caricare i dati in QGIS
 
 La  barra  del  menù  fornisce  accesso  alle  varie  funzioni  di  QGIS utilizzando  un  menù  a tendina
 
-![qgis3_menu](.\immagini\qgis3_menu.png)
+![qgis3_menu](./immagini/qgis3_menu.png)
 
 La barra degli strumenti fornisce l'accesso alla maggior parte delle funzioni, più le funzioni supplementari per l'interazione con la mappa. 
 Ogni elemento della barra degli strumenti ha una guida nel popup relativo. 
 
-![qgis3_tools](.\immagini\qgis3_tools.png)
+![qgis3_tools](./immagini/qgis3_tools.png)
 
 Tenete il mouse sopra l'elemento e verrà visualizzata una breve descrizione della sua funzionalità. Ogni barra può essere posizionata a piacimento.  Inoltre ogni barra può  essere eliminata  e reinserita, cliccando con il tasto destro del mouse e selezionando la voce corrispondente sul menù a tendina che si aprirà. 
 
@@ -383,7 +383,7 @@ Tenete il mouse sopra l'elemento e verrà visualizzata una breve descrizione del
 2. Questa è l'area in cui le mappe vengono visualizzate. La mappa che appare in questa finestra è il risultato della sovrapposizione degli strati vettoriali e raster impostati in legenda.  La  vista  nell'area  di  mappa  e  la  legenda  sono strettamente  legate  l'una  all'altra  -  le  mappe  che  vengono  visualizzate  riflettono  i cambiamenti effettuati nella legenda
 3. All'interno della panoramica c'è un rettangolo che mostra l'estensione corrente della mappa. Ciò permette  di  determinare  rapidamente  quale  area  della  mappa  si sta osservando. E' possibile aggiungere uno o più livelli alla mappa panoramica utilizzando il tasto destro del mouse. Spostando  con  il  mouse  il  rettangolo  rosso  che  mostra  l’estensione  di  visualizzazione  attuale,  la  mappa  visualizzata  si  modifica  di conseguenza
 
-![qgis3_gui](.\immagini\qgis3_gui.png)
+![qgis3_gui](./immagini/qgis3_gui.png)
 
 ---
 
@@ -396,7 +396,7 @@ Tenete il mouse sopra l'elemento e verrà visualizzata una breve descrizione del
 5. Gestore delle stampe
 6. Gestore degli stili
 
-![qgis3_menufile](.\immagini\qgis3_menufile.png)
+![qgis3_menufile](./immagini/qgis3_menufile.png)
 
 ___
 
@@ -417,7 +417,7 @@ ___
 13. lista dei bookmark
 14. aggiorna la visualizzazione
 
-![qgis3_mannunavigazione](.\immagini\qgis3_mannunavigazione.png)
+![qgis3_mannunavigazione](./immagini/qgis3_mannunavigazione.png)
 
 ___
 
@@ -436,7 +436,7 @@ ___
 11. map tips
 12. strumenti delle annotazioni
 
-![qgis3_menuinterrogazione](.\immagini\qgis3_menuinterrogazione.png)
+![qgis3_menuinterrogazione](./immagini/qgis3_menuinterrogazione.png)
 
 ___
 
@@ -444,7 +444,7 @@ ___
 
 Alcuni *tool* permettono modalità di funzionamento differenti a parità di funzione di base
 
-![qgis3_altritools](.\immagini\qgis3_altritools.png)
+![qgis3_altritools](./immagini/qgis3_altritools.png)
 
 ___
 
@@ -452,7 +452,7 @@ Pannelli e toolbar
 
 Dal menu visualizza è possibile impostare la visualizzazione di pannelli e di barre degli strumenti aggiuntivi
 
-![qgis3_panelli](.\immagini\qgis3_panelli.png)
+![qgis3_panelli](./immagini/qgis3_panelli.png)
 
 ___
 
@@ -466,7 +466,7 @@ L’ordine di disegno dei layer nella mappa avviene partendo dal basso verso l�
 2. layer acceso e visualizzato
 3. è possibile operare la visualizzazione/non visualizzazione anche sulle singole classi di legenda del layer
 
-![qgis3_legenda](.\immagini\qgis3_legenda.png)
+![qgis3_legenda](./immagini/qgis3_legenda.png)
 
 
 
@@ -481,7 +481,7 @@ L’ordine di disegno dei layer nella mappa avviene partendo dal basso verso l�
 
 
 
-![qgis3_toollegenda](.\immagini\qgis3_toollegenda.png)
+![qgis3_toollegenda](./immagini/qgis3_toollegenda.png)
 
 ___
 
@@ -489,7 +489,7 @@ ___
 
 Premendo il tasto destro del mouse è possibile attivare un menu con molte funzionalità
 
-![qgis3_tastodx](.\immagini\qgis3_tastodx.png)
+![qgis3_tastodx](./immagini/qgis3_tastodx.png)
 
 ___
 
@@ -497,15 +497,15 @@ ___
 
 Dal menu progetto è possibile impostare molte proprietà
 
-![qgis3_proprietaprogetto_generali](.\immagini\qgis3_proprietaprogetto_generali.png)
+![qgis3_proprietaprogetto_generali](./immagini/qgis3_proprietaprogetto_generali.png)
 
 
 
-![qgis3_proprietaprogetto_metadata](.\immagini\qgis3_proprietaprogetto_metadata.png)
+![qgis3_proprietaprogetto_metadata](./immagini/qgis3_proprietaprogetto_metadata.png)
 
 
 
-![qgis3_proprietaprogetto_crs](.\immagini\qgis3_proprietaprogetto_crs.png)
+![qgis3_proprietaprogetto_crs](./immagini/qgis3_proprietaprogetto_crs.png)
 
 ___
 
@@ -513,7 +513,7 @@ ___
 
 E' importante impostare il sistema di riferimento spaziale corretto. In Regione Piemonte il sistema di riferimento è il: 32632 UTM - WGS 84 metriche fuso 32.
 
-![qgis3_sistemadiriferimento](.\immagini\qgis3_sistemadiriferimento.png)
+![qgis3_sistemadiriferimento](./immagini/qgis3_sistemadiriferimento.png)
 
 ___
 
@@ -547,7 +547,7 @@ ___
 
 
 
-![qgis3_datigestiti](.\immagini\qgis3_datigestiti.png)
+![qgis3_datigestiti](./immagini/qgis3_datigestiti.png)
 
 ___
 
@@ -557,7 +557,7 @@ Per dati vettoriali si intendono dati geometrici memorizzati attraverso le coord
 
 Ogni posizione viene memorizzata attraverso una semplice coppia di coordinate xy. 
 
-![qgis3_dativettoriali](.\immagini\qgis3_dativettoriali.png)
+![qgis3_dativettoriali](./immagini/qgis3_dativettoriali.png)
 
 I punti vengono memorizzati come una singola coppia di coordinate, le linee come una serie ordinata di coppie xy, i poligoni come serie di coppie xy dove la prima e l’ultima coppia di coordinate coincidono
 
@@ -565,7 +565,7 @@ Oltre agli elementi geometrici semplici: punti, linee, spezzate e poligoni vengo
 
 Ad un oggetto (feature) multipart è assegnato un solo record di dati descrittivi associati.
 
-![qgis3_dativettoriali_complessi](.\immagini\qgis3_dativettoriali_complessi.png)
+![qgis3_dativettoriali_complessi](./immagini/qgis3_dativettoriali_complessi.png)
 
 ___
 
@@ -620,7 +620,7 @@ ___
 ## Esercizio 2 - Caricare i dati
 
 1. Eseguire QGIS.
-2. Esplorate la cartella dei dati di esempio in [disco_comune]\dati\Esercizi\es_2\  
+2. Esplorate la cartella dei dati di esempio in [disco_comune]/dati/Esercizi/es_2/  
    Quanti shapefile sono presenti? 
    Quali topologie? 
    Qual è lo shapefile con il maggior numero di geometrie?
@@ -663,15 +663,15 @@ Per impostare uno stile di rappresentazione di un layer vettoriale premere il ta
 
 Informazioni sul layer
 
-![qgis3_layerproperties_info](.\immagini\qgis3_layerproperties_info.png)
+![qgis3_layerproperties_info](./immagini/qgis3_layerproperties_info.png)
 
 Sorgente dei dati e sistema di coordinate di riferimento
 
-![qgis3_layerproperties_sorgente](.\immagini\qgis3_layerproperties_sorgente.png)
+![qgis3_layerproperties_sorgente](./immagini/qgis3_layerproperties_sorgente.png)
 
 Stile di rappresentazione
 
-![qgis3_layerproperties_stile](.\immagini\qgis3_layerproperties_stile.png)
+![qgis3_layerproperties_stile](./immagini/qgis3_layerproperties_stile.png)
 
 ___
 
@@ -679,7 +679,7 @@ ___
 
 Tutte le geometrie avranno la stessa rappresentazione
 
-![qgis3_singlesymbol](.\immagini\qgis3_singlesymbol.png)
+![qgis3_singlesymbol](./immagini/qgis3_singlesymbol.png)
 
 ___
 
@@ -687,7 +687,7 @@ ___
 
 Ad ogni singolo valore del campo selezionato verrà assegnato un simbolo differente.
 
-![qgis3_categorizzato](.\immagini\qgis3_categorizzato.png)
+![qgis3_categorizzato](./immagini/qgis3_categorizzato.png)
 
 ___
 
@@ -697,7 +697,7 @@ Le geometrie saranno tematizzate attraverso una scala di valori.
 
 La classificazione è possibile solo per i campi che contengono valori numerici.
 
-![qgis3_graduato](.\immagini\qgis3_graduato.png)
+![qgis3_graduato](./immagini/qgis3_graduato.png)
 
 ___
 
@@ -707,7 +707,7 @@ Le geometrie saranno tematizzate attraverso una serie di regole.
 
 Questa rappresentazione un po' più complessa permette grandi possibilità di allestimento in funzione della scala degli elementi geometrici.
 
-![qgis3_regole](.\immagini\qgis3_regole.png)
+![qgis3_regole](./immagini/qgis3_regole.png)
 
 ___
 
@@ -715,9 +715,9 @@ ___
 
 Permette una visualizzazione di oggetti estrusi in base ad una costante oppure ad un dato associato.
 
-![qgis3_25d](.\immagini\qgis3_25d.png)
+![qgis3_25d](./immagini/qgis3_25d.png)
 
-![qgis3_25d_esempio](.\immagini\qgis3_25d_esempio.png)
+![qgis3_25d_esempio](./immagini/qgis3_25d_esempio.png)
 
 ___
 
@@ -725,13 +725,13 @@ ___
 
 Per i simboli puntuali sono disponibili gli stessi stili di rappresentazione, inoltre è possibile impostare delle rotazioni e la dimensione per ogni singola geometria in base a quanto specificato in uno o più dati associati. 
 
-![qgis3_layerpuntuale](.\immagini\qgis3_layerpuntuale.png)
+![qgis3_layerpuntuale](./immagini/qgis3_layerpuntuale.png)
 
 ___
 
 ## Simbologia per layer lineari
 
-![qgis3_layerlineare](.\immagini\qgis3_layerlineare.png)
+![qgis3_layerlineare](./immagini/qgis3_layerlineare.png)
 
 ___
 
@@ -753,13 +753,13 @@ ___
 
 In tutte le schermate di impostazioni delle modalità di rappresentazione  è possibile salvare o caricare gli stili realizzati.
 
-![qgis3_salvastile](.\immagini\qgis3_salvastile.png)
+![qgis3_salvastile](./immagini/qgis3_salvastile.png)
 
 In QGIS lo stile è composto da più impostazioni e non solo esclusivamente la simbologia.
 
 Le impostazioni possono essere salvate in un file .QML, in un file SLD oppure in un database SpatiaLite, GeoPackage e PostgreSQL.
 
-![qgis3_salvastile2](.\immagini\qgis3_salvastile2.png)
+![qgis3_salvastile2](./immagini/qgis3_salvastile2.png)
 
 ___
 
@@ -790,13 +790,13 @@ Per aggiungere un nuovo server WMS è necessaria una piccola configurazione.
 
 Dal Data Source Manager posizionarsi su WMS/WMTS e premere nuovo.
 
-![qgis3_wms](.\immagini\qgis3_wms.png)
+![qgis3_wms](./immagini/qgis3_wms.png)
 
 Per creare una nuovo collegamento è necessario dare un nome alla connessione e indicare il path preso dal Geoportale.  In alcuni casi potrà essere richiesto di specificare username e password nel caso di servizi WMS riservati.
 
 Una volta stabilita la connessione rimarrà configurata permanentemente.
 
-![qgis3_wms2](.\immagini\qgis3_wms2.png)
+![qgis3_wms2](./immagini/qgis3_wms2.png)
 
 ___
 
