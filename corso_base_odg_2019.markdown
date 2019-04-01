@@ -10,7 +10,7 @@ r.pispico@gmail.com
 
 Aprile 2019
 
-![ccbysa](immagini\ccbysa.png)
+![ccbysa](immagini/ccbysa.png)
 
 ___
 
