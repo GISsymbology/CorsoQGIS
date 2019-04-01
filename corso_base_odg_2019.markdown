@@ -350,7 +350,7 @@ ___
 
 La gestione dei molti formati raster e vettoriali utilizzati da QGIS e da molti software GIS proprietari sono legati ad un set di librerie *open source*
 
-![immagine](./immagini/gdal_logo.png)
+![immagine](https://github.com/GISsymbology/CorsoQGIS/blob/master/immagini/gdal_logo.png)
 ___
 
 ## Caricare i dati in QGIS ##
